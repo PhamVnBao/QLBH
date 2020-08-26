@@ -1,0 +1,13 @@
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DAO.exe.config
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DAO.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DAO.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DTO.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DTO.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\bin\Debug\DTO.exe.config
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\DAO\obj\Debug\DAO.csproj.CopyComplete

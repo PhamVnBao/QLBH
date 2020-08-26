@@ -1,0 +1,17 @@
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\BUS.exe.config
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\BUS.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\BUS.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.fMain.resources
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DAO.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DAO.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DAO.exe.config
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DTO.exe
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DTO.pdb
+E:\Csharp\Window-Form\06_quan-ly-ban-hang\BUS\bin\Debug\DTO.exe.config
