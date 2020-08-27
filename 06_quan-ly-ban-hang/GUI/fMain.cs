@@ -24,5 +24,13 @@ namespace GUI
             f.ShowDialog();
             this.Show();
         }
+
+        private void btnQLSP_Click(object sender, EventArgs e)
+        {
+            fQLSP f = new fQLSP();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
     }
 }

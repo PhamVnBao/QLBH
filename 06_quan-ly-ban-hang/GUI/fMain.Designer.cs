@@ -179,6 +179,7 @@
             this.btnQLSP.TabIndex = 1;
             this.btnQLSP.Text = "Quản lý sản phẩm";
             this.btnQLSP.UseVisualStyleBackColor = false;
+            this.btnQLSP.Click += new System.EventHandler(this.btnQLSP_Click);
             // 
             // btnQLDH
             // 

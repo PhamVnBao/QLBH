@@ -24,7 +24,7 @@ namespace DAO
 
         private DataProvider() { }
 
-        private string connectionSTR = @"Data Source=DESKTOP-ORHIU77;Initial Catalog=QLBH;Integrated Security=True";
+        private string connectionSTR = @"Data Source=LAPTOP-EK0;Initial Catalog=QLBH;Integrated Security=True";
 
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
